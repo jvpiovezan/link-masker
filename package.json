@@ -1,0 +1,25 @@
+{
+  "name": "link-masker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvpiovezan/link-masker.git"
+  },
+  "author": "vitu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvpiovezan/link-masker/issues"
+  },
+  "homepage": "https://github.com/jvpiovezan/link-masker#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
